@@ -71,7 +71,7 @@ header {
 .section_info_p {
   margin-bottom: 40px;
 }
-/*
+
 .lien_clik {
   display: inline-block;
   border-radius: 32px;
@@ -83,7 +83,7 @@ header {
   background: linear-gradient(#FF79DA, #9356DC);
   color: #fff;
   width: 225px;
-}*/
+}
 
 .lien_clik_a:hover {
   background: linear-gradient(#e76cc4, #53317e);
