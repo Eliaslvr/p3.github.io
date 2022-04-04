@@ -104,17 +104,6 @@
       }
   }
   
-  /*.choice_bloc_restaurant:hover .animation2 {
-    width: 15%;
-    font-size: 23px;
-    background-color: #99E2D0;
-    border-radius: 0 15px 15px 0;
-  }
-
-  .choice_bloc_restaurant:hover .animation1 {
-    width: 85%;
-  }*/
-  
   .choice_bloc_restaurant:hover .animation2 i {
     top: 50%;
     left: 50%;
@@ -128,20 +117,7 @@
     text-overflow: ellipsis;
     padding: 0 0 14px 10px;
     transition: 330ms ease-in-out;
-  
-      /*p {
-        white-space: nowrap;
-        overflow: hidden;
-        text-overflow: ellipsis;
-      }*/
   }
-
-
-
-
-
-
-  
   
   .choice_bloc_restaurant:hover .animation1 .detail p {
     width: 50%;
@@ -170,14 +146,6 @@
     width: 65%;
   }
 
-  /*.choice_bloc_restaurant:hover .animation1 {
-    width: 80%;
-  }
-
-  .choice_bloc_restaurant:hover .animation1 .prix {
-    justify-self: flex-end;
-  }*/
-
   .choice_bloc_restaurant:hover .animation2 {
     width: 75px;
     font-size: 23px;
@@ -185,37 +153,12 @@
     border-radius: 0 15px 15px 0;
   }
 
-
-
-
-
-
-  /*.choice_bloc_restaurant:hover .animation1 .detail {
-    width: auto;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }*/
-
-
-  
-  
   .prix {
     padding-bottom: 10px;
     font-weight: 600;
-   /* width: 10%;*/
     text-align: right;
     padding-right: 10px;
   }
-  
- /* .detail { 
-  
-      h3 {
-        white-space: nowrap;
-        overflow: hidden;
-        text-overflow: ellipsis;
-      }
-  }*/
 
   .restaurant_style .lien_clik {
     margin-bottom: 60px;
