@@ -182,8 +182,8 @@
           opacity: 1;
           transition: opacity 1s;
           background-image : linear-gradient(#FF79DA, #9356DC) ;
-          -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;
+          /*-webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;*/
       }
   
       &:hover .heart_empty {
